@@ -89,6 +89,8 @@ If Sunshine is not detected, the app explains that virtual displays still work i
 2. Open the DMG and drag MacVirtualDisplay to the **Applications** folder.
 3. Launch Mac Virtual Display. It runs from the macOS menu bar.
 
+Release checksums are published in [SHA256SUMS.txt](SHA256SUMS.txt).
+
 Do not download development builds or repackaged copies from third-party sources.
 
 ## Privacy
