@@ -46,6 +46,19 @@ Mac Virtual Display creates tested HiDPI profiles for remote devices and keeps t
 
 The Fold and iPad profiles stay separate so each client can use its own native aspect ratio and workspace.
 
+## Real-world Setups
+
+<table>
+  <tr>
+    <td><img src="assets/fold8-remote-workflow.webp" alt="Mac workspace streamed full-screen to Galaxy Z Fold8" width="100%"></td>
+    <td><img src="assets/ipad-remote-keyboard.webp" alt="Mac workspace streamed to iPad Pro with a keyboard and trackpad" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Galaxy Z Fold8</strong><br>Full-screen remote workspace</td>
+    <td align="center"><strong>iPad Pro 11-inch</strong><br>Keyboard and trackpad workflow</td>
+  </tr>
+</table>
+
 ## Features
 
 ### Native HiDPI Virtual Displays
