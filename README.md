@@ -27,6 +27,10 @@
 
 > Download only from this repository or the official RamterStudio website. Development builds are not distributed publicly.
 
+<p align="center">
+  <img src="assets/app-interface-dark.png" width="480" alt="Mac Virtual Display menu bar interface with Fold and iPad profiles, Sunshine integration, and Tailscale status">
+</p>
+
 ## Why Mac Virtual Display?
 
 Remote-streaming quality depends on the Mac rendering a display that matches the client device. A mismatched physical monitor can introduce letterboxing, scaling, or an awkward desktop size.
@@ -75,6 +79,17 @@ If Sunshine is not detected, the app explains that virtual displays still work i
 3. Optionally enable Sunshine integration for Artemis or Moonlight streaming.
 4. Connect from the client device on the local network or through Tailscale.
 5. Turn off the managed display to restore the previous Mac display layout.
+
+## Remote Setup Guide
+
+Mac Virtual Display manages the Mac display; Sunshine, Artemis or Moonlight, and Tailscale remain separate companion apps.
+
+| Client device | Streaming client | Display profile |
+|---|---|---|
+| Galaxy Z Fold8 / Android | Artemis | Fold profile |
+| iPad Pro / iPadOS | Moonlight | iPad profile |
+
+See the [Remote Setup Guide](docs/REMOTE-SETUP.md) for the tested Fold8 preset, connection order, touch and keyboard input, networking recommendations, and clamshell precautions.
 
 ## System Requirements
 
