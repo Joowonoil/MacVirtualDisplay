@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: RamterStudio
+    url: https://ramterstudio.com
+    about: Visit the RamterStudio website
+  - name: Private feedback
+    url: mailto:ramterstudio@gmail.com?subject=Mac%20Virtual%20Display%20Feedback
+    about: Email feedback that should not be posted publicly

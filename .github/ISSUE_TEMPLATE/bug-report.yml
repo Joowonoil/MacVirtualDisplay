@@ -1,0 +1,77 @@
+name: Bug report
+description: Report a reproducible problem with Mac Virtual Display
+title: "[Bug] "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a problem. Do not include passwords, access tokens, Tailscale auth data, or other secrets.
+  - type: input
+    id: version
+    attributes:
+      label: Mac Virtual Display version
+      placeholder: "For example: 0.1.0"
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+      placeholder: "For example: macOS 15.6"
+    validations:
+      required: true
+  - type: input
+    id: mac
+    attributes:
+      label: Mac model
+      placeholder: "For example: MacBook Pro with Apple silicon"
+    validations:
+      required: true
+  - type: dropdown
+    id: profile
+    attributes:
+      label: Selected display profile
+      options:
+        - Galaxy Z Fold8
+        - iPad Pro 11-inch
+        - Not profile-specific
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: List the smallest sequence that reproduces the problem.
+      placeholder: |
+        1. Open Mac Virtual Display
+        2. Select ...
+        3. Turn on ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: checkboxes
+    id: integrations
+    attributes:
+      label: Integrations in use
+      options:
+        - label: Sunshine integration was enabled
+        - label: Tailscale was connected
+        - label: The Mac was in clamshell mode
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Add sanitized logs or screenshots if they help. Remove private network details and secrets.
