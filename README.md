@@ -17,14 +17,15 @@
 </p>
 
 <p align="center">
+  <a href="https://ramterstudio.com/assets/macvirtualdisplay/MacVirtualDisplay.dmg">Download</a> ·
   <a href="https://github.com/Joowonoil/MacVirtualDisplay/releases">Releases</a> ·
-  <a href="https://ramterstudio.com">RamterStudio</a> ·
+  <a href="https://ramterstudio.com/mac-virtual-display/">Website</a> ·
   <a href="https://github.com/Joowonoil/MacVirtualDisplay/issues">Feedback</a>
 </p>
 
 > This is the official release, documentation, and issue-tracking repository for Mac Virtual Display. The application is proprietary; its source code is not published here.
 
-> A signed and notarized public build is not available yet. Development builds are not distributed from this repository.
+> Download only from this repository or the official RamterStudio website. Development builds are not distributed publicly.
 
 ## Why Mac Virtual Display?
 
@@ -84,7 +85,9 @@ If Sunshine is not detected, the app explains that virtual displays still work i
 
 ## Installation
 
-The first signed and notarized public build is still being prepared. When it is ready, the official download will be published on the [Releases](https://github.com/Joowonoil/MacVirtualDisplay/releases) page.
+1. Download the signed and notarized [Mac Virtual Display DMG](https://ramterstudio.com/assets/macvirtualdisplay/MacVirtualDisplay.dmg) or use the [GitHub Releases](https://github.com/Joowonoil/MacVirtualDisplay/releases) page.
+2. Open the DMG and drag MacVirtualDisplay to the **Applications** folder.
+3. Launch Mac Virtual Display. It runs from the macOS menu bar.
 
 Do not download development builds or repackaged copies from third-party sources.
 
