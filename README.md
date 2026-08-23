@@ -10,6 +10,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/fold8-display-settings.webp" width="760" alt="Galaxy Z Fold8 showing the device-matched Mac display profile in macOS System Settings">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/github/v/release/Joowonoil/MacVirtualDisplay?include_prereleases&label=Latest%20Release&color=blue" alt="Latest Release">
   <img src="https://img.shields.io/github/downloads/Joowonoil/MacVirtualDisplay/total?label=GitHub%20Downloads&color=green" alt="GitHub Downloads">
   <img src="https://img.shields.io/badge/Platform-macOS%2014.0+-blue" alt="Platform macOS 14.0+">
@@ -56,6 +60,14 @@ The Fold and iPad profiles stay separate so each client can use its own native a
   <tr>
     <td align="center"><strong>Galaxy Z Fold8</strong><br>Full-screen remote workspace</td>
     <td align="center"><strong>iPad Pro 11-inch</strong><br>Keyboard and trackpad workflow</td>
+  </tr>
+  <tr>
+    <td><img src="assets/fold8-live-portrait.webp" alt="Galaxy Z Fold8 running the Mac display profile from a portrait angle" width="100%"></td>
+    <td><img src="assets/fold8-live-angle.webp" alt="Galaxy Z Fold8 running the Mac display profile from a landscape angle" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Galaxy Z Fold8</strong><br>Portrait-angle device view</td>
+    <td align="center"><strong>Galaxy Z Fold8</strong><br>Landscape-angle device view</td>
   </tr>
 </table>
 
