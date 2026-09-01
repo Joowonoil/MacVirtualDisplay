@@ -10,10 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/fold8-display-settings.webp" width="760" alt="Galaxy Z Fold8 showing the device-matched Mac display profile in macOS System Settings">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/github/v/release/Joowonoil/MacVirtualDisplay?include_prereleases&label=Latest%20Release&color=blue" alt="Latest Release">
   <img src="https://img.shields.io/github/downloads/Joowonoil/MacVirtualDisplay/total?label=GitHub%20Downloads&color=green" alt="GitHub Downloads">
   <img src="https://img.shields.io/badge/Platform-macOS%2014.0+-blue" alt="Platform macOS 14.0+">
@@ -25,6 +21,10 @@
   <a href="https://github.com/Joowonoil/MacVirtualDisplay/releases">Releases</a> ·
   <a href="https://ramterstudio.com/mac-virtual-display/">Website</a> ·
   <a href="https://github.com/Joowonoil/MacVirtualDisplay/issues">Feedback</a>
+</p>
+
+<p align="center">
+  <img src="assets/fold8-display-settings.webp" width="760" alt="Galaxy Z Fold8 showing the device-matched Mac display profile in macOS System Settings">
 </p>
 
 > This is the official release, documentation, and issue-tracking repository for Mac Virtual Display. The application is proprietary; its source code is not published here.
@@ -114,7 +114,7 @@ Mac Virtual Display manages the Mac display; Sunshine, Artemis or Moonlight, and
 | Galaxy Z Fold8 / Android | Artemis | Fold profile |
 | iPad Pro / iPadOS | Moonlight | iPad profile |
 
-See the [Remote Setup Guide](docs/REMOTE-SETUP.md) for the tested Fold8 preset, connection order, touch and keyboard input, networking recommendations, and clamshell precautions.
+**New to this setup?** Follow the [Remote Setup Guide](docs/REMOTE-SETUP.md) from companion-app downloads through Sunshine pairing, Tailscale access, the tested Fold8 preset, touch and keyboard input, and clamshell precautions.
 
 ## System Requirements
 
