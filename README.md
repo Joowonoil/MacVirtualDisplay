@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Native HiDPI virtual displays for remote Mac workflows</strong><br>
-  Create device-matched virtual displays for Galaxy Z Fold8 and iPad Pro, manage them from the menu bar, and optionally coordinate Sunshine streaming with safe display-layout restore.
+  Create device-matched virtual displays for Galaxy Z Fold8, Galaxy Tab, and iPad Pro, manage them from the menu bar, and optionally coordinate Sunshine streaming with safe display-layout restore.
 </p>
 
 <p align="center">
@@ -46,9 +46,13 @@ Mac Virtual Display creates tested HiDPI profiles for remote devices and keeps t
 | Device | Native resolution | HiDPI workspace | Refresh rate |
 |---|---:|---:|---:|
 | **Galaxy Z Fold8** | 2448 × 1848 | Looks like 1224 × 924 | 120 Hz |
+| **Galaxy Tab 11-inch** | 2560 × 1600 | Looks like 1280 × 800 | 120 Hz |
+| **Galaxy Tab Plus 12.4-inch** | 2800 × 1752 | Looks like 1400 × 876 | 120 Hz |
+| **Galaxy Tab Ultra 14.6-inch** | 2960 × 1848 | Looks like 1480 × 924 | 120 Hz |
 | **iPad Pro 11-inch** | 2420 × 1668 | Looks like 1210 × 834 | 120 Hz |
+| **iPad Pro 13-inch** | 2752 × 2064 | Looks like 1376 × 1032 | 120 Hz |
 
-The Fold and iPad profiles stay separate so each client can use its own native aspect ratio and workspace.
+Each profile stays separate so every client can use its own native aspect ratio and HiDPI workspace.
 
 ## Real-world Setups
 
@@ -99,7 +103,7 @@ If Sunshine is not detected, the app explains that virtual displays still work i
 
 ## Typical Remote Workflow
 
-1. Select the Fold or iPad profile.
+1. Select the profile that matches your Fold, Galaxy Tab, or iPad.
 2. Turn on the virtual display.
 3. Optionally enable Sunshine integration for Artemis or Moonlight streaming.
 4. Connect from the client device on the local network or through Tailscale.
@@ -111,8 +115,8 @@ Mac Virtual Display manages the Mac display; Sunshine, Artemis or Moonlight, and
 
 | Client device | Streaming client | Display profile |
 |---|---|---|
-| Galaxy Z Fold8 / Android | Artemis | Fold profile |
-| iPad Pro / iPadOS | Moonlight | iPad profile |
+| Galaxy Z Fold8 or Galaxy Tab / Android | Artemis | Matching Galaxy profile |
+| iPad Pro / iPadOS | Moonlight | Matching iPad profile |
 
 **New to this setup?** Follow the [Remote Setup Guide](docs/REMOTE-SETUP.md) from companion-app downloads through Sunshine pairing, Tailscale access, the tested Fold8 preset, touch and keyboard input, and clamshell precautions.
 

@@ -12,7 +12,7 @@ Mac Virtual Display creates and manages the device-matched display on the Mac. I
 | Sunshine | Captures, encodes, and streams the managed display | [Apple silicon DMG](https://github.com/LizardByte/Sunshine/releases/latest/download/Sunshine-macOS-arm64.dmg) · [All releases](https://github.com/LizardByte/Sunshine/releases) |
 | Tailscale | Provides a private route to the Mac outside the home | [Download for macOS](https://tailscale.com/download/mac) |
 
-### On Galaxy Fold or Android
+### On Galaxy Fold, Galaxy Tab, or Android
 
 | App | Purpose | Download |
 |---|---|---|
@@ -65,6 +65,19 @@ Connect the host Mac by Ethernet whenever possible. This removes one wireless li
 8. Return to the client and open **Desktop**.
 
 Create the managed display before connecting the streaming client. Virtual display identifiers can change whenever a display is recreated; Sunshine integration resolves the current display for you.
+
+### Included display profiles
+
+| Device | Native resolution | HiDPI workspace | Refresh rate |
+|---|---:|---:|---:|
+| Galaxy Z Fold8 | 2448 × 1848 | Looks like 1224 × 924 | 120 Hz |
+| Galaxy Tab 11-inch | 2560 × 1600 | Looks like 1280 × 800 | 120 Hz |
+| Galaxy Tab Plus 12.4-inch | 2800 × 1752 | Looks like 1400 × 876 | 120 Hz |
+| Galaxy Tab Ultra 14.6-inch | 2960 × 1848 | Looks like 1480 × 924 | 120 Hz |
+| iPad Pro 11-inch | 2420 × 1668 | Looks like 1210 × 834 | 120 Hz |
+| iPad Pro 13-inch | 2752 × 2064 | Looks like 1376 × 1032 | 120 Hz |
+
+Choose the exact matching profile before turning the display on. Every included profile uses 2× HiDPI scaling at 120 Hz.
 
 ## Everyday connection order
 
