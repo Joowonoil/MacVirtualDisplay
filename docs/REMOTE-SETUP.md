@@ -70,7 +70,9 @@ Create the managed display before connecting the streaming client. Virtual displ
 
 | Device | Native resolution | HiDPI workspace | Refresh rate |
 |---|---:|---:|---:|
+| Galaxy Z Fold7 | 2184 × 1968 | Looks like 1092 × 984 | 120 Hz |
 | Galaxy Z Fold8 | 2448 × 1848 | Looks like 1224 × 924 | 120 Hz |
+| Galaxy Z Fold8 Ultra | 2504 × 2256 | Looks like 1252 × 1128 | 120 Hz |
 | Galaxy Tab 11-inch | 2560 × 1600 | Looks like 1280 × 800 | 120 Hz |
 | Galaxy Tab Plus 12.4-inch | 2800 × 1752 | Looks like 1400 × 876 | 120 Hz |
 | Galaxy Tab Ultra 14.6-inch | 2960 × 1848 | Looks like 1480 × 924 | 120 Hz |

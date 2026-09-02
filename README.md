@@ -32,7 +32,7 @@
 > Download only from this repository or the official RamterStudio website. Development builds are not distributed publicly.
 
 <p align="center">
-  <img src="assets/app-interface-dark.png" width="760" alt="Mac Virtual Display 1.0 with the six-profile HiDPI display picker, Sunshine integration, and Tailscale status">
+  <img src="assets/app-interface-dark.png" width="480" alt="Mac Virtual Display 1.1 menu bar interface with device-matched HiDPI selection, Sunshine integration, and Tailscale status">
 </p>
 
 ## Why Mac Virtual Display?
@@ -45,7 +45,9 @@ Mac Virtual Display creates tested HiDPI profiles for remote devices and keeps t
 
 | Device | Native resolution | HiDPI workspace | Refresh rate |
 |---|---:|---:|---:|
+| **Galaxy Z Fold7** | 2184 × 1968 | Looks like 1092 × 984 | 120 Hz |
 | **Galaxy Z Fold8** | 2448 × 1848 | Looks like 1224 × 924 | 120 Hz |
+| **Galaxy Z Fold8 Ultra** | 2504 × 2256 | Looks like 1252 × 1128 | 120 Hz |
 | **Galaxy Tab 11-inch** | 2560 × 1600 | Looks like 1280 × 800 | 120 Hz |
 | **Galaxy Tab Plus 12.4-inch** | 2800 × 1752 | Looks like 1400 × 876 | 120 Hz |
 | **Galaxy Tab Ultra 14.6-inch** | 2960 × 1848 | Looks like 1480 × 924 | 120 Hz |
@@ -115,7 +117,7 @@ Mac Virtual Display manages the Mac display; Sunshine, Artemis or Moonlight, and
 
 | Client device | Streaming client | Display profile |
 |---|---|---|
-| Galaxy Z Fold8 or Galaxy Tab / Android | Artemis | Matching Galaxy profile |
+| Galaxy Z Fold or Galaxy Tab / Android | Artemis | Matching Galaxy profile |
 | iPad Pro / iPadOS | Moonlight | Matching iPad profile |
 
 **New to this setup?** Follow the [Remote Setup Guide](docs/REMOTE-SETUP.md) from companion-app downloads through Sunshine pairing, Tailscale access, the tested Fold8 preset, touch and keyboard input, and clamshell precautions.
