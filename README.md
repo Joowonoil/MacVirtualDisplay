@@ -113,7 +113,7 @@ If Sunshine is not detected, the app explains that virtual displays still work i
 
 ## Remote Setup Guide
 
-**Setup in your language:** [English](https://ramterstudio.com/mac-virtual-display/#setup) · [한국어](https://ramterstudio.com/mac-virtual-display/ko/#setup) · [日本語](https://ramterstudio.com/mac-virtual-display/ja/#setup) · [中文](https://ramterstudio.com/mac-virtual-display/zh/#setup) · [Deutsch](https://ramterstudio.com/mac-virtual-display/de/#setup) · [Français](https://ramterstudio.com/mac-virtual-display/fr/#setup) · [Español](https://ramterstudio.com/mac-virtual-display/es/#setup)
+**Setup in your language:** [English](https://ramterstudio.com/mac-virtual-display/setup/) · [한국어](https://ramterstudio.com/mac-virtual-display/ko/setup/) · [日本語](https://ramterstudio.com/mac-virtual-display/ja/setup/) · [中文](https://ramterstudio.com/mac-virtual-display/zh/setup/) · [Deutsch](https://ramterstudio.com/mac-virtual-display/de/setup/) · [Français](https://ramterstudio.com/mac-virtual-display/fr/setup/) · [Español](https://ramterstudio.com/mac-virtual-display/es/setup/)
 
 Mac Virtual Display manages the Mac display; Sunshine, Artemis or Moonlight, and Tailscale remain separate companion apps.
 

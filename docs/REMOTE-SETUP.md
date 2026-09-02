@@ -2,7 +2,7 @@
 
 Mac Virtual Display creates and manages the device-matched display on the Mac. It is not a streaming client or VPN. Complete the steps below once to build the full remote workflow.
 
-**Setup in your language:** [English](https://ramterstudio.com/mac-virtual-display/#setup) · [한국어](https://ramterstudio.com/mac-virtual-display/ko/#setup) · [日本語](https://ramterstudio.com/mac-virtual-display/ja/#setup) · [中文](https://ramterstudio.com/mac-virtual-display/zh/#setup) · [Deutsch](https://ramterstudio.com/mac-virtual-display/de/#setup) · [Français](https://ramterstudio.com/mac-virtual-display/fr/#setup) · [Español](https://ramterstudio.com/mac-virtual-display/es/#setup)
+**Setup in your language:** [English](https://ramterstudio.com/mac-virtual-display/setup/) · [한국어](https://ramterstudio.com/mac-virtual-display/ko/setup/) · [日本語](https://ramterstudio.com/mac-virtual-display/ja/setup/) · [中文](https://ramterstudio.com/mac-virtual-display/zh/setup/) · [Deutsch](https://ramterstudio.com/mac-virtual-display/de/setup/) · [Français](https://ramterstudio.com/mac-virtual-display/fr/setup/) · [Español](https://ramterstudio.com/mac-virtual-display/es/setup/)
 
 ## 1. Install the companion apps
 
