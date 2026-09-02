@@ -32,7 +32,7 @@
 > Download only from this repository or the official RamterStudio website. Development builds are not distributed publicly.
 
 <p align="center">
-  <img src="assets/app-interface-dark.png" width="480" alt="Mac Virtual Display menu bar interface with Fold and iPad profiles, Sunshine integration, and Tailscale status">
+  <img src="assets/app-interface-dark.png" width="760" alt="Mac Virtual Display 1.0 with the six-profile HiDPI display picker, Sunshine integration, and Tailscale status">
 </p>
 
 ## Why Mac Virtual Display?
