@@ -1,2 +1,2 @@
-7c5ad44247954bfe07fe6442f9fa3be46dd73dbf8c0310658854b61bb18b511d  MacVirtualDisplay-1.1.1.dmg
-03cf3cd0a2c188d0be4ee8f70c9bb8eb75cdd374ba843a528eb12985b112849c  MacVirtualDisplay-1.1.1.zip
+4a55f0bac2c0a05867526d1f2bbedffb27e388b84c8e2fc4445689ec7873d730  MacVirtualDisplay-1.2.0.dmg
+59cb85b037c6496b8e16e81f387d5afbd28f77ae9ea99c8684899caac7da2ad3  MacVirtualDisplay-1.2.0.zip

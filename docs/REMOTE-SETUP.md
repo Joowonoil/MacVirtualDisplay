@@ -23,12 +23,12 @@ Mac Virtual Display creates and manages the device-matched display on the Mac. I
 
 Use the **`artemis-nonRoot_game-release.apk`** build on a normal, non-rooted Galaxy device. Android may ask you to allow installation from the browser or file manager used to open the APK.
 
-### On iPad
+### On iPhone Duo or iPad
 
 | App | Purpose | Download |
 |---|---|---|
-| Moonlight | Displays the stream and sends input from iPadOS | [App Store](https://apps.apple.com/app/moonlight-game-streaming/id1000551566) |
-| Tailscale | Connects the iPad to the same private network as the Mac | [Download for iOS](https://tailscale.com/download/ios) |
+| Moonlight | Displays the stream and sends input from iOS or iPadOS | [App Store](https://apps.apple.com/app/moonlight-game-streaming/id1000551566) |
+| Tailscale | Connects the iPhone or iPad to the same private network as the Mac | [Download for iOS](https://tailscale.com/download/ios) |
 
 Tailscale is optional when both devices can already reach each other on the same local network. It is recommended for access outside the home. Mac Virtual Display only reads Tailscale connection status; it does not install Tailscale, sign in, or control the VPN.
 
@@ -78,6 +78,7 @@ Create the managed display before connecting the streaming client. Virtual displ
 | Galaxy Tab 11-inch | 2560 × 1600 | Looks like 1280 × 800 | 120 Hz |
 | Galaxy Tab Plus 12.4-inch | 2800 × 1752 | Looks like 1400 × 876 | 120 Hz |
 | Galaxy Tab Ultra 14.6-inch | 2960 × 1848 | Looks like 1480 × 924 | 120 Hz |
+| iPhone Duo | 2670 × 1878 | Looks like 1335 × 939 | 120 Hz |
 | iPad Pro 11-inch | 2420 × 1668 | Looks like 1210 × 834 | 120 Hz |
 | iPad Pro 13-inch | 2752 × 2064 | Looks like 1376 × 1032 | 120 Hz |
 
